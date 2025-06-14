@@ -1,4 +1,4 @@
-# Script-CLCHUB
+# Script-CLCHUB.luA
 local TweenService = game:GetService("TweenService")
 local SoundService = game:GetService("SoundService")
 local player = game.Players.LocalPlayer
